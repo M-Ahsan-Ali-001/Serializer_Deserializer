@@ -1,0 +1,14 @@
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\bin\Debug\netcoreapp3.1\Serialization_pratice.exe
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\bin\Debug\netcoreapp3.1\Serialization_pratice.deps.json
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\bin\Debug\netcoreapp3.1\Serialization_pratice.runtimeconfig.json
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\bin\Debug\netcoreapp3.1\Serialization_pratice.runtimeconfig.dev.json
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\bin\Debug\netcoreapp3.1\Serialization_pratice.dll
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\bin\Debug\netcoreapp3.1\Serialization_pratice.pdb
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\obj\Debug\netcoreapp3.1\Serialization_pratice.csproj.AssemblyReference.cache
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\obj\Debug\netcoreapp3.1\Serialization_pratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\obj\Debug\netcoreapp3.1\Serialization_pratice.AssemblyInfoInputs.cache
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\obj\Debug\netcoreapp3.1\Serialization_pratice.AssemblyInfo.cs
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\obj\Debug\netcoreapp3.1\Serialization_pratice.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\obj\Debug\netcoreapp3.1\Serialization_pratice.dll
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\obj\Debug\netcoreapp3.1\Serialization_pratice.pdb
+C:\Users\Anonymous Guy\source\repos\Serialization_pratice\Serialization_pratice\obj\Debug\netcoreapp3.1\Serialization_pratice.genruntimeconfig.cache
